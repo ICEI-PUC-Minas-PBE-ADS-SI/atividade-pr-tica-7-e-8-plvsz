@@ -27,4 +27,4 @@ Leia o enunciado completo no Canvas.
 ## Print da versão responsiva com Bootstrap
 
 ![Detalhes](PrintDosDetalhes.jpg)
-![AmbosTipos](PrintAmbosTipos.jpg)
+![AmbosTipos](PrintAmbosTipos.png)
