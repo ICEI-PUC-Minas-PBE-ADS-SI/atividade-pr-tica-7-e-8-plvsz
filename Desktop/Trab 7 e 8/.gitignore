@@ -1,0 +1,33 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Diretórios
+node_modules/
+.vscode/
+.idea/
+*.log
+*.tmp
+*.temp
+
+# Arquivos de usuário
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+OneDrive/
+NTUSER.*
+ntuser.* 
